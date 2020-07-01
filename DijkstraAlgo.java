@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution 
+class Solution 
 {
     static double PI = 3.1415926535;
     private static long mod = 1000000007;
